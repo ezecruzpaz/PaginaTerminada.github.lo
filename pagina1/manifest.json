@@ -1,0 +1,17 @@
+{
+    "short_name": "Mi App",
+    "name": "Mi Página Web y App",
+    "description": "Descripción de tu aplicación",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "./img/unnamed.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
